@@ -1,10 +1,8 @@
-package com.madhukaraphatak.spark.rdd.anatomy
+package com.mdsb.spark.rdd.anatomy
 
 import org.apache.spark.SparkContext
 
-/**
- * Created by madhu on 24/3/15.
- */
+
 object RunJobExample {
 
   def main(args: Array[String]) {

@@ -1,12 +1,10 @@
-package com.madhukaraphatak.spark.rdd.anatomy
+package com.mdsb.spark.rdd.anatomy
 
 import org.apache.hadoop.io.{Text, LongWritable}
 import org.apache.hadoop.mapred.TextInputFormat
 import org.apache.spark.SparkContext
 
-/**
- * Created by madhu on 11/3/15.
- */
+
 object PartitionExample {
 
   def main(args: Array[String]) {

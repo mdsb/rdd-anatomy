@@ -1,11 +1,9 @@
-package com.madhukaraphatak.spark.rdd.anatomy
+package com.mdsb.spark.rdd.anatomy
 
 import org.apache.spark.storage.RDDBlockId
 import org.apache.spark.{SparkContext, SparkEnv}
 
-/**
- * Created by madhu on 24/3/15.
- */
+
 object CacheExample {
 
   def main(args: Array[String]) {

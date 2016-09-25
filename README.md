@@ -10,7 +10,7 @@ Follow the below steps to clone code and setup your machine.
 
 ## 1. Getting code
 
-           git clone https://github.com/phatak-dev/anatomy-of-rdd.git
+           git clone https://github.com/mdsb/anatomy-of-rdd.git
 
 
 ## 2. Build

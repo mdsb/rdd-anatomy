@@ -1,10 +1,8 @@
-package com.madhukaraphatak.spark.rdd.anatomy
+package com.mdsb.spark.rdd.anatomy
 
 import org.apache.spark.SparkContext
 
-/**
- * Created by madhu on 11/3/15.
- */
+
 object MapPartitionExample {
 
   def main(args: Array[String]) {

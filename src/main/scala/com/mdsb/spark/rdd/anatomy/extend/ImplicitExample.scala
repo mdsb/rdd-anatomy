@@ -1,8 +1,6 @@
-package com.madhukaraphatak.spark.rdd.anatomy.extend
+package com.mdsb.spark.rdd.anatomy.extend
 
-/**
- * Created by madhu on 27/3/15.
- */
+
 object ImplicitExample {
 
   class CustomIntFunctions (value:Int) {

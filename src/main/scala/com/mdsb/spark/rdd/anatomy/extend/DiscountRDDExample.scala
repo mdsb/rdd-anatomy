@@ -1,8 +1,6 @@
-package com.madhukaraphatak.spark.rdd.anatomy.extend
-
+package com.mdsb.spark.rdd.anatomy.extend
 
 import org.apache.spark.SparkContext
-import org.apache.spark.SparkContext._
 import org.apache.spark.rdd.RDD
 
 object DiscountRDDExample {

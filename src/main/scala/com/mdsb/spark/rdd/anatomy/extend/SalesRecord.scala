@@ -1,8 +1,6 @@
-package com.madhukaraphatak.spark.rdd.anatomy.extend
+package com.mdsb.spark.rdd.anatomy.extend
 
-/**
- * Created by madhu on 20/1/15.
- */
+
 class SalesRecord(val transactionId: String,
                   val customerId: String,
                   val itemId: String,

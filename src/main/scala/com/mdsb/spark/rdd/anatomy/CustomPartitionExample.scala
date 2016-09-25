@@ -1,11 +1,9 @@
-package com.madhukaraphatak.spark.rdd.anatomy
+package com.mdsb.spark.rdd.anatomy
 
-import org.apache.spark.{Partitioner, SparkContext}
+import org.apache.spark.SparkContext
 import org.apache.spark.SparkContext._
 
-/**
- * Created by madhu on 11/3/15.
- */
+
 object CustomPartitionExample {
 
 

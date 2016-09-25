@@ -1,10 +1,8 @@
-package com.madhukaraphatak.spark.rdd.anatomy
+package com.mdsb.spark.rdd.anatomy
 
 import org.apache.spark.Partitioner
 
-/**
- * Created by madhu on 11/3/15.
- */
+
 class CustomerPartitioner extends Partitioner {
   override def numPartitions: Int = 2
 
