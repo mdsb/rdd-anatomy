@@ -18,18 +18,5 @@ Follow the below steps to clone code and setup your machine.
         mvn clean install
 
 
-## 3. Loading into an IDE
 
-  If you are using eclipse, run
-
-       mvn eclipse:eclipse
-
-  Then load the project to eclipse.
-
-  If you are using Intellij, just load the project as maven project.
-
-
-## 4. Up to date
-
-Please pull before coming to the session to get the latest code.
 
